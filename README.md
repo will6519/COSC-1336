@@ -1,2 +1,2 @@
 # COSC-1336
-C++ 
+C++ Programming
