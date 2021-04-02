@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main() {
+    std::cout << "In-N-Out Burger" <<std::endl;
+    std::cout << "10918 Culebra Rd, San Antonio, TX 78253" <<std::endl;
+    std::cout << "8007861000" <<std::endl;
+    std::cout << "https://www.in-n-out.com" <<std::endl;
+    return 0;
+}
